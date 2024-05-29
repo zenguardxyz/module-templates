@@ -8,16 +8,16 @@ A developer can select any of these module template based on different module st
 
 ### Safe Core Protocol specs
 
-- [Safe App + Hook Module template](./hook-template)
-- [Safe App + Plugin Module template](./plugin-template)
+- [Safe App + Hook Module template](https://github.com/koshikraj/safe-whitelist-hook)
+- [Safe App + Plugin Module template](https://github.com/zenguardxyz/safe2link-plugin)
 
 
 ### ERC-7579 specs
 
-- [Safe App + Executor Module template](./executor-template-7579/)
-- [Safe App + Validator Module template](./executor-template-7579/)
+- [Safe App + Executor Module template](https://github.com/koshikraj/module-template-7579)
+- [Safe App + Validator Module template](https://github.com/koshikraj/module-template-7579)
 
-- [Module template by Rhinestone](./module-template-7579/)
+- [Module template by Rhinestone](https://github.com/rhinestonewtf/module-template)
 
 ### ERC-6900 specs
 
