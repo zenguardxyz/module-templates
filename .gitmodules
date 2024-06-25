@@ -1,6 +1,16 @@
 [submodule "hook-template"]
 	path = hook-template
 	url = https://github.com/koshikraj/safe-whitelist-hook
+	branch = main
 [submodule "plugin-template"]
 	path = plugin-template
 	url = https://github.com/zenguardxyz/safe2link-plugin
+        branch = main
+[submodule "validator-template-7579"]
+	path = validator-template-7579
+	url = https://github.com/koshikraj/module-template-7579
+	branch = main
+[submodule "executor-template-7579"]
+	path = executor-template-7579
+	url = https://github.com/koshikraj/module-template-7579
+	branch = module/session-key
