@@ -1,15 +1,6 @@
-[submodule "safe-whitelist-hook"]
-	path = safe-whitelist-hook
-	url = https://github.com/koshikraj/safe-whitelist-hook
 [submodule "hook-template"]
 	path = hook-template
 	url = https://github.com/koshikraj/safe-whitelist-hook
 [submodule "plugin-template"]
 	path = plugin-template
 	url = https://github.com/zenguardxyz/safe2link-plugin
-[submodule "executor-template-7579"]
-	path = executor-template-7579
-	url = https://github.com/koshikraj/safelink
-[submodule "module-template-7579"]
-	path = module-template-7579
-	url = https://github.com/rhinestonewtf/module-template
